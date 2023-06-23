@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Mi primer repositorio creado en el PrepCourse henry.
+Este proyecto es una prueba
